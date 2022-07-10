@@ -4,8 +4,6 @@ Located in the Metro Detroit Area. I've graduated from Flatiron School's Softwar
 
 I have a higher interest in Frontend Development, but I absolutely love working in fullstack! I'm always searching to improve my skillset and learn new languages.
 
-
-# Projects
  
 
 <!--
