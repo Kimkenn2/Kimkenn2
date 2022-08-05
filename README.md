@@ -4,7 +4,7 @@ Located in the Metro Detroit Area. I've graduated from Flatiron School's Softwar
 
 I have a higher interest in Frontend Development, but I absolutely love working in fullstack! I'm always searching to improve my skillset and learn new languages.
 
-#### Come talk to me!
+#### Come Connect/Chat With Me!
 [![LinkedIn](https://github.com/Kimkenn2/Kimkenn2/blob/main/images/LinkedInLogo.png)](https://www.linkedin.com/in/kennethykim/)
 
 <!--
